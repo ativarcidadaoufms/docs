@@ -4,71 +4,76 @@ hide:
   - toc
 ---
 
+# Ativar Cidadão 🌟
 
-# Comitiva Esperança 🌟
-
-Organização destinada ao time Comitiva Esperança do programa [</pantanal.dev\>](https://pantanal.dev) 🚀, um programa de capacitação imersiva em tecnologias inovadoras que tem como objetivo capacitar e apresentar oportunidades de trabalho remoto no mercado financeiro nacional 💼. <br>
-
-
-  <center>[![pantanal_dev](pantanal_dev.png)](https://youtu.be/gl2qIX2CAr0)</center>
-
-
-## **Sobre o desafio [</pantanal.dev\>](https://pantanal.dev)**
-
-Entre os dias **01/04/2023** e **20/05/2023**, foi realizado o módulo Arara Azul, focado em **Machine Learning**, do programa [</pantanal.dev\>](https://pantanal.dev), um programa desenvolvido por professores da Faculdade de Computação da UFMS em parceira com as empresas [B3 a bolsa do Brasil](https://www.linkedin.com/company/b3_oficial/), [BLK](https://www.linkedin.com/company/blk-b3/), [PDtec](https://www.linkedin.com/company/pdtec-b3/) e [Neoway](https://www.linkedin.com/company/neoway/). <br>
-Durante esse período foi proposto a nós do time Comitiva Esperança e a outras 9 equipes, o desafio de ***"Treinar um algoritmo de Machine Learning capaz de classificar o sentimento de textos de notícias de Jornais ou Redes Sociais em (Positivo, Neutro ou Negativo)"***. <br> 
-Cabia a cada time definir e construir um produto que resolva um problema real e entregue valor aos seus usuários com esse modelo proposto. <br>
+Organização destinada ao projeto Ativar Cidadão desenvolvido no [Núcleo de Práticas de Engenharia de Software (NES)](https://nes.facom.ufms.br/) 🚀, que tem como objetivo desenvolver uma aplicação com foco em coletar rumores no contexto de Vigilância Epidemiológica para uso do Centro de Informações Estratégicas em Vigilância em Saúde de Campo Grande-MS (CIEVS-CG) da Secretaria Municipal de Saúde de Campo Grande-MS.
 
 ## **Participantes** 🙋‍♀️🙋‍♂️
 
-O time Comitiva Esperança é composto por 4 pessoas, de áreas multidisciplinares. Todos atuam como Data Scientist porém exercem o papel primário descrito abaixo:
+O projeto Ativar Cidadão atualmente é composto por 8 pessoas da disciplina de Engenharia de Software, descrito abaixo:
+
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
     <tbody>
     <tr>
-        <td align="center"><a href="https://www.linkedin.com/in/vitor-lameirao/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
-        style="border-radius: 50%; opacity: 1;" src="https://media.licdn.com/dms/image/C4D03AQFcdqS2mWAK4g/profile-displayphoto-shrink_800_800/0/1624376395242?e=1687392000&v=beta&t=hXeb9UZHzelf-kjNpYv43ryYV2sR6yQxoOaMKBn14q0" alt=""
-        width="250px;">
-        <br><sub><b>Vitor Lameirão</b> <br>
-        Engenharia de Software <br>
-        <b>Product Owner</b>
-        </sub></a><br><a href="https://www.linkedin.com/in/vitor-lameirao/""></a></td>
-
         <td align="center"><a href="https://www.linkedin.com/in/mfelipemota/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
-        style="border-radius: 50%; opacity: 1;" src="https://media.licdn.com/dms/image/C4E03AQGT7_lbyKtQmg/profile-displayphoto-shrink_800_800/0/1656686830755?e=1687392000&v=beta&t=0rhm-4RJoLuI1OQSeR45bpDU-l3snRbAOlmXGHR3U34" alt=""
-        width="250px;">
+        style="border-radius: 100%;" src="https://nes.facom.ufms.br/storage/uploads/F5O4WNVfL0u79rJeFi5QfjadxBpyxIcdqL4VN5Ca.png" alt=""
+        width="100px">
         <br><sub><b>Maycon Felipe Mota</b> <br>
         Engenharia de Software <br>
-        <b>Data Engineer</b>
-        </sub></a><br><a href="https://www.linkedin.com/in/mfelipemota/"></a></td>
+        </sub></a><br><a href="https://www.linkedin.com/in/mfelipemota/"></a>
+        </td>
 
-        <td align="center"><a href="https://www.linkedin.com/in/godoydud/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
-        style="border-radius: 50%; opacity: 1;" src="https://media.licdn.com/dms/image/C4E03AQHUZv7aORR3Kg/profile-displayphoto-shrink_800_800/0/1620325882810?e=1687392000&v=beta&t=YZvnID9MA2ejehTVSpwOPP1ldKJyTCQPkkFlGNwUAi4" alt=""
-        width="250px;">
-        <br><sub><b>Eduardo Godoy</b> <br>
+        <td align="center"><a href="https://www.linkedin.com/in/vitor-lameirao/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+        style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/Rh1HbxuOR8xn2LhLpMJUh38KwQYPftjeAm4zZwka.png" alt=""
+        width="100px">
+        <br><sub><b>Vitor Lameirão</b> <br>
         Engenharia de Software <br>
-        <b>Backend Engineer</b>
-        </a><br><a href="https://www.linkedin.com/in/godoydud/"></a></td>
+        </sub></a><br><a href="https://www.linkedin.com/in/vitor-lameirao/"></a></td>
 
-        <td align="center"><a href="https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
-        style="border-radius: 50%; opacity: 1;" src="https://media.licdn.com/dms/image/C4D03AQHjw9swQAexKw/profile-displayphoto-shrink_800_800/0/1580089777779?e=1687392000&v=beta&t=TxhIex8aRCQyfGlDPSidzsBy_L3I24AH8HJlhAyhJjY" alt=""
-        width="250px;">
-        <br><sub><b>Arthur Ramires</b> <br>
-        Sistema de Informação<br>
-        <b>Frontend Engineer</b>
+        <td align="center"><a href="https://www.linkedin.com/in/rsobrinho/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+        style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/CHokuZTRuke2PXRiNtwcu7zWNX3cha0Uh6aox9hu.jpg" alt=""
+        width="100px;">
+        <br><sub><b>Rafael Sobrinho</b> <br>
+        Engenharia de Software <br>
+        </a><br><a href="https://www.linkedin.com/in/rsobrinho/"></a></td>
 
-        <a href="https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/"></a></td>
+        <td align="center"><a href="https://www.linkedin.com/in/enzoperassa/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+        style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/CoYWFxBkMDjorn5u1qkqZtecQLzQsoKW144MSv8h.jpg" alt=""
+        width="100px;">
+        <br><sub><b>Enzo Perassa Paes</b> <br>
+        Engenharia de Software<br>
+        <a href="https://www.linkedin.com/in/enzoperassa/"></a></td>
+
+      <td align="center"><a href="https://www.linkedin.com/in/arthur-ramires-rodrigues-neto-9687a1193/"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+              style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/OB8uEgmlaR5LiFiUxTpklUhf9VOgbV9qsQ1jY7SN.png" alt=""
+              width="100px;">
+              <br><sub><b>Guilherme Soares</b> <br>
+              <a href="https://www.linkedin.com/in/soaresguidev/"></a></td>
 
 
-  <td align="center"><a href="https://www.linkedin.com/in/andrezzaandrade//"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
-        style="border-radius: 50%; opacity: 1;" src="https://media.licdn.com/dms/image/C4D03AQHxWdRpyFIfcw/profile-displayphoto-shrink_800_800/0/1661129737600?e=1687392000&v=beta&t=AYX5twC6sN4zh4R2NREZv8j3m0--BXnISCQOFJb25wc" alt=""
-        width="250px;">
-        <br><sub><b>Andrezza Andrade</b> <br>
-        Neoway<br>
-        <b>👑 Mentora</b>
+      <td align="center"><a href="https://www.linkedin.com/in/breno-rodrigues-607724218"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+              style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/TTZLNzgd3a0Gwa9wVict3LfhBtv89xjpohZtbA5Q.jpg" alt=""
+              width="100px;">
+              <br><sub><b>Breno Rodrigues</b> <br>
+              <a href="https://www.linkedin.com/in/breno-rodrigues-607724218"></a></td>
 
-        <a href="https://www.linkedin.com/in/andrezzaandrade/"></a></td>
+
+      <td align="center"><a href="https://www.linkedin.com/in/breno-rodrigues-607724218"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+              style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/b1Pu0xRC81lASxQWEHiTj2C0M9gVoKtle9tagOHF.jpg" alt=""
+              width="100px;">
+              <br><sub><b>Thiago Loster</b> <br>
+                      <b>👑 Técnico</b>
+              </td>
+
+               <td align="center"><a href="https://www.linkedin.com/in/breno-rodrigues-607724218"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)"
+              style="border-radius: 100%; opacity: 1;" src="https://nes.facom.ufms.br/storage/uploads/2ZP71KEc5TseTDgXlvFRqU9Wz3GPKDohs1x1Cf5c.jpg" alt=""
+              width="100px;">
+              <br><sub><b>Hudson Borges</b> <br>
+                      <b>👑 Supervisor</b>
+              </td>
 
     </tr>
+
   </tbody>
   </table>
   </div>
@@ -77,12 +82,13 @@ O time Comitiva Esperança é composto por 4 pessoas, de áreas multidisciplinar
 ## Repositórios
 As aplicações da plataforma está dividida em quatro repositórios, como:
 
-- [Dados](https://github.com/comitivaesperanca/data)
+<!-- - [Dados](https://github.com/comitivaesperanca/data)
 - [Backend](https://github.com/comitivaesperanca/backend)
 - [Frontend](https://github.com/comitivaesperanca/frontend)
-- [Documentação](https://github.com/comitivaesperanca/docs)
+- [Documentação](https://github.com/comitivaesperanca/docs) -->
 
 ## Tabela de Versionamento
+
 <div class="md-typeset__scrollwrap">
   <div class="md-typeset__table">
     <table>

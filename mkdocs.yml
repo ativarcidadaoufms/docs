@@ -1,42 +1,42 @@
-site_name: Comitiva Esperança
-repo_url: https://github.com/comitivaesperanca/docs/
-repo_name: comitivaesperanca
+site_name: Ativar Cidadao 
+repo_url: https://github.com/ativarcidadaoufms/docs/
+repo_name: ativarcidadaoufms
 edit_uri: edit/main/docs/
 
 nav:
-  - Home: Home/index.md
+  - Home: home/index.md
   - Organização: 
-    - Metodologias: Organizacao/metodologias.md
-  - Produto:
-    - Contexto do Mercado: Produto/contexto_mercado.md
-    - Análise do Mercado: Produto/analisando_mercado.md
-    - Personas: Produto/personas.md
-    - Visão do Produto: Produto/visao_produto.md
-    - Brainstorming de Funcionalidades: Produto/brainstorming.md
-    - Prioridade de Funcionalidades: Produto/prioridade_func.md
-    - Roadmap do Produto: Produto/roadmap_prod.md
-    - Visão de Futuro: Produto/visao_futuro.md
-  - Desenvolvimento:
-    - Ferramentas: Ferramentas/ferramentas.md
-    - Dados: Dados/index.md
-    - Frontend: Frontend/index.md
-    - Backend: Backend/index.md
-  - Infraestrutura: 
-    - Atualmente: Infraestrutura/atualmente.md
-    - Como executar local: Infraestrutura/como_executar.md
-    - Sobre: Infraestrutura/sobre.md
+    - Metodologias: organizacao/metodologias.md
+  # - Produto:
+    # - Contexto do Mercado: Produto/contexto_mercado.md
+    # - Análise do Mercado: Produto/analisando_mercado.md
+    # - Personas: Produto/personas.md
+    # - Visão do Produto: Produto/visao_produto.md
+    # - Brainstorming de Funcionalidades: Produto/brainstorming.md
+    # - Prioridade de Funcionalidades: Produto/prioridade_func.md
+    # - Roadmap do Produto: Produto/roadmap_prod.md
+    # - Visão de Futuro: Produto/visao_futuro.md
+  # - Desenvolvimento:
+    # - Ferramentas: Ferramentas/ferramentas.md
+    # - Dados: Dados/index.md
+    # - Frontend: Frontend/index.md
+    # - Backend: Backend/index.md
+  # - Infraestrutura: 
+    # - Atualmente: Infraestrutura/atualmente.md
+    # - Como executar local: Infraestrutura/como_executar.md
+    # - Sobre: Infraestrutura/sobre.md
 
 theme:
-  logo: https://avatars.githubusercontent.com/u/129684075
+  logo: https://scontent.fbsb9-1.fna.fbcdn.net/v/t39.30808-6/418299767_764387129055467_9029234239426418410_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEVYe-fmObhtiWZCMRSq7LHkqqSivvrsWySqpKK--uxbLVvMZpwBRaXpzHY5kyXCIT6T2E5TlQ2FnMKktZxFm8v&_nc_ohc=0o5iA5sQfMQAX-thfIX&_nc_ht=scontent.fbsb9-1.fna&oh=00_AfAEAp7kpXG6X7yLPj-kdBo6YY7D9PaBrvr0M-b68635uw&oe=65F68D01
   name: material
       
   extra_css:
     - extra.css
 
   palette: 
-    primary: 'orange'
-    accent: 'orange'
-    primary-bg: 'white'
+    primary: 'ativarcidadao'
+    accent: 'ativarcidadao'
+    primary-bg: 'ativarcidadao'
   features:
     - navigation.tabs
     - navigation.tabs.sticky
