@@ -1,0 +1,68 @@
+site_name: Comitiva Esperança
+repo_url: https://github.com/comitivaesperanca/docs/
+repo_name: comitivaesperanca
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: Home/index.md
+  - Organização: 
+    - Metodologias: Organizacao/metodologias.md
+  - Produto:
+    - Contexto do Mercado: Produto/contexto_mercado.md
+    - Análise do Mercado: Produto/analisando_mercado.md
+    - Personas: Produto/personas.md
+    - Visão do Produto: Produto/visao_produto.md
+    - Brainstorming de Funcionalidades: Produto/brainstorming.md
+    - Prioridade de Funcionalidades: Produto/prioridade_func.md
+    - Roadmap do Produto: Produto/roadmap_prod.md
+    - Visão de Futuro: Produto/visao_futuro.md
+  - Desenvolvimento:
+    - Ferramentas: Ferramentas/ferramentas.md
+    - Dados: Dados/index.md
+    - Frontend: Frontend/index.md
+    - Backend: Backend/index.md
+  - Infraestrutura: 
+    - Atualmente: Infraestrutura/atualmente.md
+    - Como executar local: Infraestrutura/como_executar.md
+    - Sobre: Infraestrutura/sobre.md
+
+theme:
+  logo: https://avatars.githubusercontent.com/u/129684075
+  name: material
+      
+  extra_css:
+    - extra.css
+
+  palette: 
+    primary: 'orange'
+    accent: 'orange'
+    primary-bg: 'white'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+ 
+  font:
+    text: Nunito
+    code: Fira Code
+extra:
+  generator: true
+
+plugins:
+  - git-revision-date
+  - search
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      title: Índice
