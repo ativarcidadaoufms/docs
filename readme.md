@@ -1,7 +1,7 @@
 # Documentação
 <hr>
 
-Esse repositório contém a documentação do projeto desenvolvido durante o [Pantanal.dev](pantanal.dev) em 2023.
+Esse repositório contém a documentação do projeto desenvolvido durante a disciplina de Práticas de Desenvolvimento de Software da Universidade Federal do Mato Grosso do Sul no [Núcleo de Engenharia de Software](https://nes.facom.ufms.br/)
 
 ## Ferramentas
 - [Git](https://git-scm.com/)
