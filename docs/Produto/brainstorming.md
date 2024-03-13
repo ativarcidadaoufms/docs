@@ -2,7 +2,7 @@ Após criarmos nossa *Visão do Produto*, que gerou um entendimento comum sobre 
 
 ## **Aplicação do método**
 
-Para aplicar o **Brainstorming de Funcionalidades**, criamos um quadro na ferramenta Miro, onde cada membro da equipe poderia imaginar e escrever uma funcionalidade que julgava ser valiosa para o produto. Nesta etapa, não validamos nenhuma das funcionalidades inseridas, pois o objetivo é coletar o máximo possível de ideias. Nas próximas etapas da descoberta, iremos refiná-las e priorizá-las. <br>
+Para aplicar o **Brainstorming de Funcionalidades**, criamos um quadro na ferramenta Miro, onde cada membro da equipe poderia imaginar e escrever uma funcionalidade que julgava ser valiosa para o produto. Nesta etapa, não validamos nenhuma das funcionalidades, pois o objetivo é coletar o máximo possível de ideias. Nas próximas etapas da descoberta, iremos refiná-las e priorizá-las. <br>
 
 <center>![persona](images/brainstorming_miro.jpg)
 *Acima está ilustrado o nosso quadro de Brainstorming*
