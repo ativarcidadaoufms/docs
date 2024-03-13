@@ -29,4 +29,4 @@ mkdocs serve
 
 ## Como publicar?
 Para publicar as modificações, basta realizar um Merge (após revisão) para a branch `main`. O deploy é feito automaticamente pelo Github Actions
-O site pode ser acessado em: https://ativarcidadaoufms.github.io/docs/  
+O site pode ser acessado em: https://ativarcidadaoufms.github.io/docs/   a 
