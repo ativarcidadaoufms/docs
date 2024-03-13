@@ -13,7 +13,7 @@ Esse repositório contém a documentação do projeto desenvolvido durante a dis
 Para contribuir com a documentação, você deve seguir os seguintes passos:
 ```bash
 # Clone o repositório
-git clone git@github.com:comitivaesperanca/docs.git
+git clone git@github.com:ativarcidadaoufms/docs.git
 cd docs
 git checkout main # ou a branch que você deseja contribuir
 
