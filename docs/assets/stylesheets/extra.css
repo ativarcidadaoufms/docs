@@ -33,3 +33,7 @@ body > header > nav.md-header__inner.md-grid > a > img {
   height: 96px;
   width: 96px;
 }
+
+.logo{
+  display:  none;
+}

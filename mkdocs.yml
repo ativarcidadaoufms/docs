@@ -1,12 +1,16 @@
-site_name: Ativar Cidadao 
+site_name: Ativar Cidadão
 repo_url: https://github.com/ativarcidadaoufms/docs/
 repo_name: ativarcidadaoufms
 edit_uri: edit/main/docs/
 
 nav:
-  - Home: home/index.md
+  - Home: Home/index.md
   - Organização: 
-    - Metodologias: organizacao/metodologias.md
+    - Metodologias: Organizacao/metodologias.md
+    - Reuniões Diárias (Dailies): Organizacao/dailies.md
+    - Plannings: Organizacao/plannings.md
+    - Retrospectivas: Organizacao/retrospectivas.md
+
   # - Produto:
     # - Contexto do Mercado: Produto/contexto_mercado.md
     # - Análise do Mercado: Produto/analisando_mercado.md
@@ -25,13 +29,11 @@ nav:
     # - Atualmente: Infraestrutura/atualmente.md
     # - Como executar local: Infraestrutura/como_executar.md
     # - Sobre: Infraestrutura/sobre.md
-
+extra_css:
+    - assets/stylesheets/extra.css
 theme:
-  logo: https://scontent.fbsb9-1.fna.fbcdn.net/v/t39.30808-6/418299767_764387129055467_9029234239426418410_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEVYe-fmObhtiWZCMRSq7LHkqqSivvrsWySqpKK--uxbLVvMZpwBRaXpzHY5kyXCIT6T2E5TlQ2FnMKktZxFm8v&_nc_ohc=0o5iA5sQfMQAX-thfIX&_nc_ht=scontent.fbsb9-1.fna&oh=00_AfAEAp7kpXG6X7yLPj-kdBo6YY7D9PaBrvr0M-b68635uw&oe=65F68D01
+  logo: assets/images/icone-amarelo.png
   name: material
-      
-  extra_css:
-    - extra.css
 
   palette: 
     primary: 'ativarcidadao'
@@ -40,7 +42,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
- 
+    - content.tabs.link
   font:
     text: Nunito
     code: Fira Code
@@ -60,6 +62,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
   - md_in_html
   - tables
